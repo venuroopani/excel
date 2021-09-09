@@ -1,0 +1,7 @@
+﻿STAGES,SOURCE PATH,HYPERLINK
+SAST,https://github.com/harishpallapu/SourceCode_SAST.git,SAST
+FUNCTIONAL_WEB,https://github.com/harishpallapu/webtest.git,FUNCTIONAL_WEB
+FUNCTIONAL_MOBILE,https://github.com/harishpallapu/mobiletest.git,FUNCTIONAL_MOBILE
+JMETER,https://github.com/harishpallapu/folder.git,JMETER
+TOMCAT_IP,,
+NEXUS_IP,,
